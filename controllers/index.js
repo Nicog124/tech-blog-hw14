@@ -9,3 +9,6 @@ router.use("/api/comments", commentRoutes);
 router.use("/api/users", userRoutes);
 router.use("/api/posts", postRoutes);
 module.exports = router;
+
+
+
