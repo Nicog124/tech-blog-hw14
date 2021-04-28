@@ -8,4 +8,5 @@ This is a tech blog that allows a user to post about whatever they wish. It supp
 
 
 ## Links
-
+github - https://github.com/Nicog124/tech-blog-hw14
+heroku - https://tech-blog-hw14.herokuapp.com
