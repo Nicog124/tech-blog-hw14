@@ -3,17 +3,17 @@
 }
 a {
   text-decoration: none;
-  color: #231010;
+  color: #121023;
 }
 .link {
   text-decoration: none;
-  color: #d9ead3;
+  color: whitesmoke;
 }
 #navbar {
   list-style-type: none;
   padding: 20px;
   margin: 0;
-  background-color: #231010;
+  background-color: #121023;
 }
 
 #navbar li {
@@ -35,7 +35,7 @@ a {
 }
 
 .card {
-  box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2);
+  box-shadow: 0 4px 8px 0 black;
   transition: 0.3s;
   padding: 20px;
 }
