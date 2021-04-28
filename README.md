@@ -10,3 +10,6 @@ This is a tech blog that allows a user to post about whatever they wish. It supp
 ## Links
 github - https://github.com/Nicog124/tech-blog-hw14
 heroku - https://tech-blog-hw14.herokuapp.com
+
+
+*heroku says build successful and deployed yet when I load the page it says "Application Error" and I don't know how to fix it.
