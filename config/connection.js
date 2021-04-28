@@ -12,4 +12,5 @@ const sequelize = process.env.blog_db
       },
     });
 
-module.exports = sequelize;
+module.exports = sequelize;   
+
